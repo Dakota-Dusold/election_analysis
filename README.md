@@ -37,5 +37,5 @@ The results of the anlysis of this election provide the following information:
     - **Diana Degette**, who received 73.8% of the vote and 272,892 votes.
 ## Election Audit Summary
 1. This script could be used in city or state level elections with minor modifications. The f-strings and print statements would have to be updated as well as the variable names. 
-2. Another use for this script could be to analyze registered voters in the area to project election results. The data would have to be manipulated to assume people would vote for their party, but the script would not change much. The f-strings and print statements would have to be updated as well as the variable names. THe majority of the formulas in this script are built to update the lists, tuples, dictionaries and counts bases on the data. 
+2. Another use for this script could be to analyze registered voters in the area to project election results. The data would have to be manipulated to assume people would vote for their party, but the script would not change much. The f-strings and print statements would have to be updated as well as the variable names. The majority of the formulas in this script are built to update the lists, tuples, dictionaries and counts bases on the data. 
   
